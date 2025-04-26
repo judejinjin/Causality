@@ -1,4 +1,4 @@
-strict digraph  {
+strict digraph {
 X [x=0, y=0];
 Y [x=1, y=0];
 W [x=1, y=1];

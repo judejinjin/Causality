@@ -1,0 +1,12 @@
+  matplotlib
+  networkx
+  numpy
+  pandas
+  requests
+  scikit-learn
+  statsmodels
+  tqdm
+  watermark
+  pygraphviz
+  pydot
+  
